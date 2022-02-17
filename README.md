@@ -1,3 +1,5 @@
 # AddRepo
 
-# readme khac cai hoi nay
+# test conflict hehe
+
+# day la dong quan trong
